@@ -1,3 +1,3 @@
-module github.CoderDoge1108.common_widget.html
+module github.com/CoderDoge1108/common_widget
 
 go 1.19
